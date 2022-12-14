@@ -1,0 +1,45 @@
+﻿<html>
+
+<head>
+<title>圖片操作</title>
+</head>
+
+<body>
+
+<h2>貓集合</h2>
+
+<p>菠菜切段 ，滾水+少許鹽巴，菠菜燙軟，瀝乾盛盤
+<p>雞蛋打散，炒鍋熱油後，炒散蛋，撈出備用
+<p>原鍋炒香蒜、辣椒，加辣豆瓣、米酒、糖，再拌入炒蛋，拌入太白粉水煮至濃稠滑口
+<p>將滑蛋淋在菠菜上即可<p>
+
+<img src="./image/001.jpg" ait="001的貓" width="400 height="300>
+<img src="./image/002.jpg" ait="001的貓" width="400 height="300>
+<img src="./image/003.jpg" ait="001的貓" width="400 height="300>
+
+<h2>狗集合</h2>
+
+<p>菠菜切段 ，滾水+少許鹽巴，菠菜燙軟，瀝乾盛盤
+<p>雞蛋打散，炒鍋熱油後，炒散蛋，撈出備用
+<p>原鍋炒香蒜、辣椒，加辣豆瓣、米酒、糖，再拌入炒蛋，拌入太白粉水煮至濃稠滑口
+<p>將滑蛋淋在菠菜上即可<p>
+
+
+<img src="./image/004.jpg" ait="001的狗" width="400 height="300>
+<img src="./image/005.jpg" ait="001的狗" width="400 height="300>
+<img src="./image/006.jpg" ait="001的狗" width="400 height="300>
+
+<p>練習用音樂、影片<p>
+<audio autoplay controls>
+ <sourc src="horse.ogg" type="audio/mpeg>
+ <sourc src="1206-002.mp3" type="audio/mpge">
+your drowser does not support the audio element.
+</audio>
+
+<vibeo width="400" height="300" controls>
+ <sourc src="001.mp4" type="video/mp4">
+ <sourc src="movie.ogg" type="video/ogg>
+your drowser does not support the video tag.
+</vibeo>
+</body>
+</html>
